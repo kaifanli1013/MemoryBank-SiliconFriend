@@ -1,13 +1,13 @@
 pymupdf
-paddlepaddle==2.4.2
+paddlepaddle==2.5.1
 paddleocr
-langchain==0.0.146
+langchain==0.0.144
 transformers==4.28.0
 unstructured[local-inference]
 layoutparser[layoutmodels,tesseract]
 nltk
 sentence-transformers==2.2.2
-llama-index==0.5.23.post1
+llama-index==0.5.17.post1
 beautifulsoup4
 icetk
 cpm_kernels
