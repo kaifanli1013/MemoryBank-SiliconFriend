@@ -22,3 +22,7 @@ bitsandbytes
 click~=8.1.3
 tabulate
 openai==0.27.6
+gradio
+markdown2
+pygments
+mdtex2html

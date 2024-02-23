@@ -23,6 +23,7 @@ from utils.sys_args import data_args,model_args
 
  
 memory_dir = os.path.join(data_args.memory_basic_dir,data_args.memory_file)
+
 if not os.path.exists(memory_dir):
     json.dump({},open(memory_dir,"w",encoding="utf-8"))
 
